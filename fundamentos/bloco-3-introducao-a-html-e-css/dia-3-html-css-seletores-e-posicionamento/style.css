@@ -1,0 +1,70 @@
+*{
+margin: 0;
+
+}
+
+img{
+    float:left;
+    height: 280px;
+    padding: 10px;
+    background-color: black;    
+}
+
+.image-container{
+
+    height: 400px;
+    top: 10px;
+    position:relative;
+}
+
+h1, h3{
+
+font-family: Arial, sans-serif;
+font-size: 15pt;
+/*text-shadow: 1px 1px 1px rgba(0,0,0,6);*/
+padding: 5px 30px;
+text-align: center;
+}
+
+
+h2{
+    color: green;
+}
+
+body{
+
+background-color: #ddd8b8;
+padding: 3%;
+
+}
+p, ul{
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    padding: 5px 5px 10px;
+}
+
+.habilidades.container{
+
+    font-size: 20pt;
+
+}
+
+.description{
+    position: absolute;
+    
+    left: 45%;
+    right: 5px;
+    font-size: 12pt;
+    
+
+}
+
+ol li:nth-child(odd){
+
+    background-color: aqua;
+}
+
+/*div{
+
+    border: 2px solid green;
+}*/
