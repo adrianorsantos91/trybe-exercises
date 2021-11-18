@@ -1,4 +1,6 @@
-# trybe-exercises
+# Trybe
+
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Adriano Rodrigues dos Santos](https://www.linkedin.com/in/adrianorodrsantos/)_ durante o periodo de formação na [Trybe](https://www.betrybe.com/) :rocket:
 
 ## Introdução - Desenvolvimento Web :white_check_mark:
 
